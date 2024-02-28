@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-express-wweb-server-tutorial",
+  "version": "1.0.0",
+  "description": "NodeJS Web Server Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "author": "Bruno Pasquarelli Macedo",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "date-fns": "^3.3.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.0",
+    "uuid": "^9.0.1"
+  }
+}
