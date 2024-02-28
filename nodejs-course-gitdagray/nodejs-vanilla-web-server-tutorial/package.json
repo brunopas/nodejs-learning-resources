@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-vanilla-web-server-tutorial",
+  "version": "1.0.0",
+  "description": "NodeJS Web Server Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "author": "Bruno Pasquarelli Macedo",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.3.1",
+    "uuid": "^9.0.1"
+  }
+}
